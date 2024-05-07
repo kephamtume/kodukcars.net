@@ -1127,7 +1127,8 @@ hr{
         font-size: 60px;
     }
     .arrows{
-        bottom: 1px;
+        bottom: 0.25px;
+        
     }
 }
 @media screen and (max-width: 550px) {
