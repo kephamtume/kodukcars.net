@@ -1024,6 +1024,12 @@ hr{
     right: 50px;
     z-index: 100;
 }
+#sideNav{
+    z-index: 150;
+}
+#menuBtn{
+    z-index: 150;
+}
 .arrows button{
     background-color: #eee5;
     border: none;
